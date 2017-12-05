@@ -11,7 +11,7 @@
 
 int main(void)
 {
-    printf("helll MyGitHub!!!\n");
+    printf("Hello MyGitHub!!!\n");
 
     return 0;
 }
